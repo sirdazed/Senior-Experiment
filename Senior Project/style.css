@@ -1229,6 +1229,23 @@ footer a:hover {
     }
 }
 
+    /*Style for the Pearl and the Ouartz*/
+
+h7 {
+    font-size: 24px;
+    line-height: 1.6;
+    color: #333;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 5px;
+    background-color: #f9f9f9;
+    border-left: 4px solid #ccc;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    align-content: left;
+}
+
+
     /*CSS For the Pop up*/
    /* Overlay Background */
 #overlay {
