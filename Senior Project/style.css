@@ -32,6 +32,16 @@ h6 {
     font-size: 12px;
 }
 
+h8 {
+    font-size: 52px;
+    line-height: 60px;
+    color: #d30000;
+    padding-left: 0;
+    padding-right: 20px;
+    padding-top: 20px
+    
+}
+
 p {
     font-size: 16px;
     color: #465b52;
@@ -1306,8 +1316,8 @@ h7 {
 /* Close Button */
 #closePopup {
     cursor: pointer;
-    font-size: 12px;
-    color: #088178;
+    font-size: 8px;
+    color: #e8ece9;
     position: absolute;
     top: 10px;
     right: 15px;
